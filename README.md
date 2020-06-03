@@ -7,6 +7,6 @@ You can clone this repository using `https://github.com/aarti-b/all_about_pandas
 We are making this to make Pandas easier to understand and enhance even minute knowledge about pandas so any comments, suggestions, critics are highly welcomed.
 
 ## Contribution
-Aarti Balana[https://github.com/aarti-b] \
-Surjeet Singh[https://github.com/surjeet143] 
+[Aarti Balana](https://github.com/aarti-b) \
+[Surjeet Singh](https://github.com/surjeet143) 
 
